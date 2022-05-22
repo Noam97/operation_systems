@@ -1,0 +1,3 @@
+C:/Users/Noam Lahmani/CLionProjects/os/cmake-build-debug/CMakeFiles/os.dir
+C:/Users/Noam Lahmani/CLionProjects/os/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Noam Lahmani/CLionProjects/os/cmake-build-debug/CMakeFiles/rebuild_cache.dir
